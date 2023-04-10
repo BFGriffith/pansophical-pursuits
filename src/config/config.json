@@ -1,8 +1,8 @@
 {
   "site": {
     "title": "Pansophical Pursuits",
-    "base_url": "https://pansophical-pursuits.github.io",
-    "base_path": "/",
+    "base_url": "https://BFGriffith.github.io",
+    "base_path": "/pansophical-pursuits",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/Pansophical-Pursuits_menu-icon.png",
