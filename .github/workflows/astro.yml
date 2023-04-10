@@ -3,14 +3,14 @@
 name: DEPLOY Astro site to Pages
 
 on:
-  # Runs on pushes targeting the default branch
+  # runs on pushes targeting the designated branch
   push:
-    branches: ["master"]
+    branches: ["gh-pages"]
 
-  # Allows running this workflow manually from the GitHub Actions TAB
+  # allows running this workflow manually from the GitHub Actions TAB
   workflow_dispatch:
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+# sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
   pages: write
