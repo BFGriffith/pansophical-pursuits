@@ -1,14 +1,19 @@
 {
   "site": {
-    "title": "Bookworm Light Astro | Blog Template",
-    "base_url": "https://bookworm-light-astro.vercel.app",
+    "title": "Pansophical Pursuits",
+    "base_url": "https://pansophical-pursuits.github.io",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_width": "200",
-    "logo_height": "34",
-    "logo_text": "Bookworm Light"
+    "logo": "/images/Pansophical-Pursuits_menu-icon.png",
+    "logo_width": "400",
+    "logo_height": "100",
+    "logo_text": "Pansophical Pursuits",
+    "apple_touch_icon": "/images/apple-touch-icon.png",
+    "favicon32": "/images/favicon-32x32.png",
+    "favicon16": "/images/favicon-16x16.png",
+    "manifest": "/images/site.webmanifest",
+    "safari_pinned_tab": "/images/safari-pinned-tab.svg"
   },
 
   "settings": {
@@ -17,19 +22,19 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "B.F. Griffith",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Bookworm Light Astro Blog Template"
+    "meta_description": "Pansophical Pursuits official website"
   },
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Copyright © B.F. Griffith"
   },
 
   "contactinfo": {
-    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
-    "email": "info@bookworm.org",
-    "phone": "+800 567 1234"
+    "address": "Orlando, Florida, United States",
+    "eMail": "BFGriffith@Facebook.com",
+    "Twitter": "@BFGriffith"
   }
 }
