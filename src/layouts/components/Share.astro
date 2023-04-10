@@ -7,7 +7,7 @@ import {
   IoLogoTwitter,
 } from "react-icons/io5/index.js";
 
-const { base_url } = config.site;
+const base_url = config.site.base_url + config.site.base_path;
 const { title, description, slug, className } = Astro.props;
 ---
 

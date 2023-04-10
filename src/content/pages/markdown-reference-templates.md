@@ -1,5 +1,6 @@
 ---
-title: "Elements"
+title: "📋 Markdown Reference Templates ㊢"
+description: "This page serves as a convenient Markdown reference template visual demonstration guide."
 draft: false
 ---
 
@@ -35,13 +36,13 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 ### Link
 
-[I'm an inline-style link](https://www.google.com)
+[I’m an inline-style link](https://www.google.com)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[I’m an inline-style link with title](https://www.google.com "Google’s Homepage")
 
-[I'm a reference-style link][arbitrary case-insensitive reference text]
+[I’m a reference-style link][arbitrary case-insensitive reference text]
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+[I’m a relative reference to a repository file](../blob/master/LICENSE)
 
 [You can use numbers for reference-style link definitions][1]
 

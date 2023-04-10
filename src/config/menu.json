@@ -6,23 +6,23 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "Authors",
+          "name": "✍🏼 Authors",
           "url": "/pansophical-pursuits/authors"
         },
         {
-          "name": "Categories",
+          "name": "𑗊 Categories",
           "url": "/pansophical-pursuits/categories"
         },
         {
-          "name": "Tags",
+          "name": "🏷 Tags",
           "url": "/pansophical-pursuits/tags"
         },
         {
-          "name": "Elements",
-          "url": "/pansophical-pursuits/elements"
+          "name": "📋 Markdown ㊢",
+          "url": "/pansophical-pursuits/markdown-reference-templates"
         },
         {
-          "name": "Privacy Policy",
+          "name": "㊙️ Privacy Policy 🗝",
           "url": "/pansophical-pursuits/privacy-policy"
         }
       ]
@@ -37,7 +37,7 @@
     },
     {
       "name": "Home",
-      "url": "/pansophical-pursuits/"
+      "url": "/pansophical-pursuits"
     }
   ],
   "footer": [
@@ -48,10 +48,6 @@
     {
       "name": "Contact",
       "url": "/pansophical-pursuits/contact"
-    },
-    {
-      "name": "Elements",
-      "url": "/pansophical-pursuits/elements"
     },
     {
       "name": "Privacy Policy",
