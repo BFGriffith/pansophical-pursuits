@@ -7,55 +7,55 @@
       "children": [
         {
           "name": "Authors",
-          "url": "/authors"
+          "url": "/pansophical-pursuits/authors"
         },
         {
           "name": "Categories",
-          "url": "/categories"
+          "url": "/pansophical-pursuits/categories"
         },
         {
           "name": "Tags",
-          "url": "/tags"
+          "url": "/pansophical-pursuits/tags"
         },
         {
           "name": "Elements",
-          "url": "/elements"
+          "url": "/pansophical-pursuits/elements"
         },
         {
           "name": "Privacy Policy",
-          "url": "/privacy-policy"
+          "url": "/pansophical-pursuits/privacy-policy"
         }
       ]
     },
     {
       "name": "About",
-      "url": "/about"
+      "url": "/pansophical-pursuits/about"
     },
     {
       "name": "Contact",
-      "url": "/contact"
+      "url": "/pansophical-pursuits/contact"
     },
     {
       "name": "Home",
-      "url": "/"
+      "url": "/pansophical-pursuits/"
     }
   ],
   "footer": [
     {
       "name": "About",
-      "url": "/about"
+      "url": "/pansophical-pursuits/about"
     },
     {
       "name": "Contact",
-      "url": "/contact"
+      "url": "/pansophical-pursuits/contact"
     },
     {
       "name": "Elements",
-      "url": "/elements"
+      "url": "/pansophical-pursuits/elements"
     },
     {
       "name": "Privacy Policy",
-      "url": "/privacy-policy"
+      "url": "/pansophical-pursuits/privacy-policy"
     }
   ]
 }
