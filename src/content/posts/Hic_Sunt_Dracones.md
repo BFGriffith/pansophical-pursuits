@@ -1,8 +1,8 @@
 ---
 title: "🀄 Hic Sunt Dracones ⿓ 🐉"
 description: "This is a ттRPGs, particularly Dungeons&Dragons, focused post…"
-date: 2023-04-22T00:00:00-05:00
-image: "/images/posts/DampD.jpg"
+date: 1974-01-26T00:00:00-06:00
+image: "/images/posts/DampD.png"
 categories: ["Roleplaying-Games"]
 authors: ["B.F. Griffith"]
 tags: ["ттRPGs", "Dungeons＆Dragons"]

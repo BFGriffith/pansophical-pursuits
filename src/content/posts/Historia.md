@@ -2,7 +2,7 @@
 title: "Historia est vitæ magistra…"
 description: "This is a historical post."
 image: "/images/posts/Friedrich_Nietzsche.jpg"
-date: 2021-02-03T00:00:00-05:00
+date: 1900-08-25T00:00:00+01:00
 draft: false
 authors: ["B.F. Griffith"]
 tags: ["Historiography", "Education"]
